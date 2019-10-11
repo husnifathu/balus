@@ -8,6 +8,8 @@
 	width: 400px;
 	height: 220px;
 	background-color:blue;
+	text-color: white;
+	table-color: yellow;	
 }
 </style>
 
