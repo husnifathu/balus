@@ -7,6 +7,7 @@
 	top: 50%;
 	width: 400px;
 	height: 220px;
+	background-color:blue;
 }
 </style>
 
